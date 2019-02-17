@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://iconation.team/images/small.png" 
-    width="125px"
+    width="200px"
     alt="ICONation logo">
 </p>
 
