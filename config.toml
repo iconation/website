@@ -1,0 +1,187 @@
+# Page settings
+baseurl = "localhost:1313"
+title = "ICONation"
+languageCode = "en-us"
+theme = "hugo-elate-theme"
+
+[params]
+  
+  custom_css = ["css/custom1.css", "css/custom2.css"]
+
+  # Meta
+  author = "ICONation"
+  description = "ICONation website"
+  email = "iconation.team@gmail.com"
+
+  # Navigation
+  [params.navigation]
+    brand = "ICONation"
+    home = "Home"
+    work = "Projects"
+    services = "Services"
+    about = "Our team"
+    contact = "Contact"
+
+  # Hero section
+  [params.hero]
+    title = "ICONation"
+    subtitle = 'Made by ICONists, for the ICONists.'
+
+  # [params.intro.video]
+  #   enable = false
+  #   title = "Watch the video"
+  #   icon = "icon-play2"
+  #   url = "https://vimeo.com/channels/staffpicks/93951774"
+
+
+  # Work section
+  [params.work]
+    enable = true
+    title = "Projects"
+    description = "Here are our contributions to the ICON ecosystem."
+    # footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+
+    [[params.work.row]]
+      img = "icon-sdk-php.png"
+      link = "https://github.com/iconation/icon-sdk-php"
+      alt = "ICON SDK PHP"
+      title = "ICON SDK PHP"
+      subtitle = "Development SDK"
+
+    [[params.work.row]]
+      img = "icon-sdk-cpp.png"
+      link = "https://github.com/iconation/icon-sdk-cpp"
+      alt = "ICON SDK CPP"
+      title = "ICON SDK CPP"
+      subtitle = "Development SDK"
+
+    [[params.work.row]]
+      img = "aegis.png"
+      link = "https://github.com/iconation/aegis"
+      alt = "Aegis"
+      title = "Aegis"
+      subtitle = "ICON blockchain analyzer"
+
+    [[params.work.row]]
+      img = "citizen_node.png"
+      link = "http://iconation.team:9100/api/v3/"
+      alt = "ICONation Citizen Node"
+      title = "ICONation Citizen Node"
+      subtitle = "Fully synchronized Mainnet Node"
+
+  # Services section
+  [params.services]
+    enable = true
+    title = "Services"
+    description = "[insert general ICONation purpose]"
+
+    [[params.services.item]]
+      title = "Secure"
+      description = "[insert description about being a block producer here (security)]"
+      icon = "icon-cube"
+
+    [[params.services.item]]
+      title = "Develop"
+      description = "[insert description about development here (projects, contribution to ICON source code)]"
+      icon = "icon-wrench"
+
+    [[params.services.item]]
+      title = "Nation"
+      description = "[insert description about ICONists who vote for us (voting, social media)]"
+      icon = "icon-flag"
+
+      [[params.services.item]]
+      title = "Educate"
+      description = "[insert description about what we can teach to ICONists (articles, tutorials, ...)]"      
+      icon = "icon-monitor"
+
+  # About section
+  [params.about]
+    enable = true
+    title = "Our team"
+    description = "team description here"
+
+    [[params.about.item]]
+      name = "Spl3en"
+      position = "Developer"
+      description = "Spl3en description"
+      img = "spl3en.png"
+      alt = "Person1"
+      social = [
+        ["icon-twitter", "#"],
+      ]
+
+    [[params.about.item]]
+      name = "Radio"
+      position = "Position"
+      description = "Radio description"
+      img = "radio.png"
+      alt = "Person2"
+      social = [
+        ["icon-twitter", "#"],
+      ]
+
+    [[params.about.item]]
+      name = "Dimitris"
+      position = "Developer"
+      description = "Dimitris description"
+      img = "dimitris.png"
+      alt = "Person1"
+      social = [
+        ["icon-twitter", "#"],
+      ]
+
+    [[params.about.item]]
+      name = "NorskKiwi"
+      position = "Position"
+      description = "NorskKiwi description"
+      img = "norsk.png"
+      alt = "Person4"
+      social = [
+        ["icon-twitter", "#"],
+      ]
+
+    [[params.about.item]]
+      name = "CCClub"
+      position = "Position"
+      description = "CCClub description"
+      img = "ccclub.png"
+      alt = "ccclub"
+      social = [
+        ["icon-twitter", "#"],
+      ]
+
+  # Contact section
+  [params.contact]
+    enable = true
+    map = false
+    form = true
+    title = "Get in touch"
+    description = "You need to tell us something ? <br/>Contact us on our social media, or using the following form."
+    
+    # Available icons: http://simplelineicons.com/
+    details = [
+        # ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
+        # ["icon-phone", "(123) 465-6789"],
+        ["icon-envelope", '<a href="mailto:iconation.team@gmail.com" target="_blank">iconation.team@gmail.com</a>'],
+        ["icon-github", '<a href="https://github.com/ICONation" target="_blank">[GitHub] ICONation</a>'],
+        ["icon-twitter", '<a href="https://twitter.com/ICONationTeam" target="_blank">[Twitter] @ICONationTeam</a>'],
+        ["icon-medium", '<a href="https://medium.com/@iconation" target="_blank">[Medium] @ICONation</a>'],
+        ["", '<span class="iconify" style="position:relative; left:-50px;" data-icon="ei:sc-telegram" data-inline="false"></span><a href="https://t.me/iconationteam" target="_blank" style="position:relative; left:-22px;">[Telegram] t.me/iconationteam</a>']
+      ]
+
+    name = "Name"
+    email = "Email"
+    # phone = "Phone"
+    message = "Message"
+    button = "Send message"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = '&copy; ICONation. All Rights Reserved.'
+    links = [
+        # ["icon-github", "https://github.com/ICONation"],
+        # ["icon-twitter", "https://twitter.com/ICONationTeam"],
+        # ["icon-medium", "https://medium.com/@iconation"]
+      ]
