@@ -60,7 +60,7 @@ theme = "hugo-elate-theme"
       link = "https://github.com/iconation/aegis"
       alt = "Aegis"
       title = "Aegis"
-      subtitle = "ICON blockchain analyzer"
+      subtitle = "ICON blockchain database & analyzer"
 
     [[params.work.row]]
       img = "citizen_node.png"
@@ -68,6 +68,12 @@ theme = "hugo-elate-theme"
       alt = "ICONation Citizen Node"
       title = "ICONation Citizen Node"
       subtitle = "Fully synchronized Mainnet Node"
+
+    [[params.work.row]]
+      img = "teaser.png"
+      alt = "And more!"
+      title = "And more to come!"
+      subtitle = "Soon 😉"
 
   # Services section
   [params.services]
