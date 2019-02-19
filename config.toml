@@ -21,18 +21,17 @@ theme = "hugo-elate-theme"
     services = "Services"
     about = "Our team"
     contact = "Contact"
-
+ 
   # Hero section
   [params.hero]
     title = "ICONation"
-    subtitle = 'Made by ICONists, for the ICONists.'
+    subtitle = 'By ICONists, for ICONists.'
 
   # [params.intro.video]
   #   enable = false
   #   title = "Watch the video"
   #   icon = "icon-play2"
   #   url = "https://vimeo.com/channels/staffpicks/93951774"
-
 
   # Work section
   [params.work]
@@ -105,12 +104,12 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "Our team"
-    description = "team description here"
+    description = ""
 
     [[params.about.item]]
       name = "Spl3en"
-      position = "Developer"
-      description = "Spl3en description"
+      # position = "Developer"
+      description = "Spl3en has been actively assisting and supporting the ICON developer community on icondev.io, ICONDev Telegram, and other various ICON related developer channels as an administrator dating back to 2017. He has demonstrated an excellent understanding of the ICON blockchain by contributing directly to the official <a href='https://github.com/Spl3en?org=icon-project'>ICON project source code</a>. He has developed multiple tools for ICONists and is in the process of creating more. His main motivation is to bring more developers to the ICON ecosystem by providing useful tools, dApps and APIs through ICONation."
       img = "spl3en.png"
       alt = "Person1"
       social = [
@@ -119,8 +118,8 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Radio"
-      position = "Position"
-      description = "Radio description"
+      # position = "Position"
+      description = "Radio is a Senior Systems Analyst/Scrum Master for one of the largest IT providers in North America. Radio has been an active member of the ICON community since 2017 and currently serves as a community manager on various ICON Reddit, Telegram and Discord channels. In addition to being an ICONist and cryptocurrency enthusiast, Radio's interests include a wide variety of sports, music, and literature from around the world.  He is also a passionate advocate for global human and animal rights."
       img = "radio.png"
       alt = "Person2"
       social = [
@@ -129,8 +128,8 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Dimitris"
-      position = "Developer"
-      description = "Dimitris description"
+      # position = "Developer"
+      description = "Dimitris is an ambitious software engineer, with over 4 years of professional experience in web application development & system administration. Some of his most notable achievements include the digital transformation of various volunteering organisations and having worked at the European Organisation for Nuclear Research (CERN) for 14 months as a software developer. During the last 1.5 years, he has also ventured into the field of blockchain and smart contract development. He has already made a Telegram bot prototype that alerts you on ICX balance changes and is now developing a PHP SDK for ICON."
       img = "dimitris.png"
       alt = "Person1"
       social = [
@@ -139,8 +138,8 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "NorskKiwi"
-      position = "Position"
-      description = "NorskKiwi description"
+      # position = "Position"
+      description = "As well as his drive for growing innovative technology, NorskKiwi brings a diverse skillset to the ICONation team, crafted in part from 15 years of managerial experience in the hospitality and tourism industry. A unique blend of communication skills, prudent financial management, and creative flair balance out his more aspirational ambitions for ICON., NorskKiwi is passionate about cultural exchange and bringing people together from all walks of life. He wishes to see the ICON community lead the way forward towards the United Nations Sustainable Development Goals, particularly through increased democracy (especially via DID and blockchain voting), climate action, and poverty reduction. Originally from New Zealand, NorskKiwi has traversed the world and now calls Norway home."
       img = "norsk.png"
       alt = "Person4"
       social = [
@@ -149,8 +148,8 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "CCClub"
-      position = "Position"
-      description = "CCClub description"
+      # position = "Position"
+      description = "CCClub_17 is an investor, entrepreneur and has 15 years experience in the Legal Sector in Australia. CCClub_17 has been an active ICON community member and has served as an admin on several ICON community channels since 2017. Club’s passion is to see the expansion of the ICON ecosystem by building engaging dApps, inspiring ICONists through online marketing/promotional events, and delivering quality/transparent communications with fellow ICONists."
       img = "ccclub.png"
       alt = "ccclub"
       social = [
