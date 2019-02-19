@@ -113,7 +113,9 @@ theme = "hugo-elate-theme"
       img = "spl3en.png"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/Spl3en_ICON"],
+        ["icon-github", "https://github.com/Spl3en"],
+        ["icon-envelope", "https://telegram.me/Spl3en"],
       ]
 
     [[params.about.item]]
@@ -123,7 +125,9 @@ theme = "hugo-elate-theme"
       img = "radio.png"
       alt = "Person2"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/radiofriendly12"],
+        ["icon-reddit", "https://www.reddit.com/user/radiofriendly123"],
+        ["icon-envelope", "https://telegram.me/radiofriendly123"],
       ]
 
     [[params.about.item]]
@@ -133,7 +137,9 @@ theme = "hugo-elate-theme"
       img = "dimitris.png"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/dimitrisfrang"],
+        ["icon-github", "https://github.com/mitsosf/"],
+        ["icon-envelope", "https://telegram.me/dimitrisfrangiadakis"],
       ]
 
     [[params.about.item]]
@@ -143,7 +149,9 @@ theme = "hugo-elate-theme"
       img = "norsk.png"
       alt = "Person4"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/norskkiwi1"],
+        ["icon-reddit", "https://www.reddit.com/user/NorskKiwi"],
+        ["icon-envelope", "https://telegram.me/NorskKiwi"],
       ]
 
     [[params.about.item]]
@@ -153,7 +161,9 @@ theme = "hugo-elate-theme"
       img = "ccclub.png"
       alt = "ccclub"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/CCClub_17"],
+        ["icon-reddit", "https://www.reddit.com/user/CCClub_17"],
+        ["icon-envelope", "https://telegram.me/ccclub_17"],
       ]
 
   # Contact section
