@@ -78,26 +78,26 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "[insert general ICONation purpose]"
+    description = "ICONation will provide the following services related to network management, development, community participation, and education."
 
     [[params.services.item]]
       title = "Secure"
-      description = "[insert description about being a block producer here (security)]"
+      description = "<ul><li><b>Block Production - ICON Network Management</b></li><li>ICONation will actively modify hardware configurations to meet and exceed network requirements to ensure consistent block production</li><li>Initial hardware details include :<ul><li>Server type: c5.9xlarge</li><li>CPU Model: Intel® Xeon® Platinum 8124 CPU @ 3.00GHZ</li><li>vCPU(core): 36</li><li>RAM: 72G</li><li>Disk: 500G NVMe SSD (EBS bandwidth 4.5 Gbps)</li></ul><li>Participate in various ICON source code audits</li></ul>"
       icon = "icon-cube"
 
     [[params.services.item]]
       title = "Develop"
-      description = "[insert description about development here (projects, contribution to ICON source code)]"
+      description = "<ul><li><b>Growing & Nurturing the ICON Network</b></li><li><a href='https://github.com/iconation/icon-sdk-cpp'>ICON SDK C++</a></li><li><a href='https://github.com/iconation/icon-sdk-php'>ICON SDK PHP</a></li><li>ICONation Voting SCORE dApp : this voting dApp will be used to collect and quantify the opinions of ICONists on network governance proposals.</li><li>ICONation will stand up a Loopchain lab to educate and support developers with efforts around peer nodes, RPC communication, trackers, etc, in order to strengthen community & developer knowledge around the ICON ecosystem</li></ul>"
       icon = "icon-wrench"
 
     [[params.services.item]]
       title = "Nation"
-      description = "[insert description about ICONists who vote for us (voting, social media)]"
+      description = "<ul><li><b>Governance Decisions & Voting</b></li><li>ICONation proposes to:</li><ul><li>Request and quantify the ICON community's opinion on upcoming network governance decisions via the ICONation voting SCORE dApp</li><li>Stake virtual steps into the voting dApp in order to provide free transactions for ICONists that use the dApp to vote</li><li>Encourage community involvement and participation via multiple community channels</li><li>Provide transparency via auditable results on the ICON blockchain</li></ul></ul>"
       icon = "icon-flag"
 
       [[params.services.item]]
       title = "Educate"
-      description = "[insert description about what we can teach to ICONists (articles, tutorials, ...)]"      
+      description = "<ul><li><b>Network Security and Protection</b></li><li>ICONation proposes to:</li><ul><li>Uphold and adhere to standards that prevent abuse, attacks, fraud or collusion</li><li>Utilize the ICONation team's collective experience as ICON community managers to reduce and remove threats through community education via existing platforms such as Telegram, Reddit, Kakao, and Twitter</li><li>Contribute to developer awareness on how to strengthen the ICON ecosystem via the Loopchain lab</li></ul></ul>"
       icon = "icon-monitor"
 
   # About section

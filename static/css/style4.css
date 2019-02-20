@@ -774,10 +774,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-services .fh5co-service {
   padding-right: 30px;
+  padding-bottom : 50px;
 }
 #fh5co-services h3 {
   font-size: 24px;
   color: #fff;
+  padding-left : 40px;
 }
 #fh5co-services .icon {
   font-size: 70px;
@@ -786,6 +788,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   zoom: 1;
   *display: inline;
+  padding-left : 40px;
 }
 #fh5co-services .icon:before {
   color: #fff;
