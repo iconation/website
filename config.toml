@@ -76,6 +76,13 @@ theme = "hugo-elate-theme"
       subtitle = "Fully synchronized Testnet Node"
 
     [[params.work.row]]
+      img = "server-status.png"
+      link = "http://iconation.team:8000/"
+      alt = "ICONation Server Status"
+      title = "ICONation Server Status"
+      subtitle = "Status of services maintained by ICONation"
+
+    [[params.work.row]]
       img = "teaser.png"
       alt = "And more!"
       title = "And more to come!"
