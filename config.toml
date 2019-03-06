@@ -72,8 +72,8 @@ theme = "hugo-elate-theme"
       img = "testnet_citizen_node.png"
       link = "http://iconation.team:9000/api/v3/"
       alt = "ICONation Testnet Citizen Node"
-      title = "ICONation Testnet Citizen Node"
-      subtitle = "Fully synchronized Testnet Node"
+      title = "ICONation Testnet Citizen Node (Euljiro)"
+      subtitle = "Fully synchronized Testnet Node (Euljiro)"
 
     [[params.work.row]]
       img = "server-status.png"
