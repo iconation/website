@@ -11,6 +11,8 @@
   The ICONation.team website source: https://iconation.team
 </p>
 
+ [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ## Overview
 Very simple, no JS necessary. Using [Hugo](https://gohugo.io/), a fast static website generator and [NodeJS](https://nodejs.org) for building.
 
