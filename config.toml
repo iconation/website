@@ -41,18 +41,25 @@ theme = "hugo-elate-theme"
     # footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
+      img = "svalinn.png"
+      link = "https://github.com/iconation/Svalinn/releases/latest"
+      alt = "Svalinn ICX Wallet"
+      title = "Svalinn"
+      subtitle = "ICX Desktop Wallet, works online and offline."
+
+    [[params.work.row]]
       img = "icon-sdk-php.png"
       link = "https://github.com/iconation/icon-sdk-php"
       alt = "ICON SDK PHP"
       title = "ICON SDK PHP"
-      subtitle = "Development SDK"
+      subtitle = "Development SDK in PHP"
 
     [[params.work.row]]
       img = "icon-sdk-cpp.png"
       link = "https://github.com/iconation/icon-sdk-cpp"
       alt = "ICON SDK CPP"
       title = "ICON SDK CPP"
-      subtitle = "Development SDK"
+      subtitle = "Development SDK in C++"
 
     [[params.work.row]]
       img = "aegis.png"
