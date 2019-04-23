@@ -164,9 +164,9 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "NorskKiwi"
+      name = "James / NorskKiwi"
       # position = "Position"
-      description = "As well as his drive for growing innovative technology, NorskKiwi brings a diverse skillset to the ICONation team, crafted in part from 15 years of managerial experience in the hospitality and tourism industry. A unique blend of communication skills, prudent financial management, and creative flair balance out his more aspirational ambitions for ICON., NorskKiwi is passionate about cultural exchange and bringing people together from all walks of life. He wishes to see the ICON community lead the way forward towards the United Nations Sustainable Development Goals, particularly through increased democracy (especially via DID and blockchain voting), climate action, and poverty reduction. Originally from New Zealand, NorskKiwi has traversed the world and now calls Norway home."
+      description = "NorskKiwi will also be a familiar face for anyone visiting ICON community channels. Originally from New Zealand, this current day Norwegian resident brings a diverse skill set to the ICONation team, crafted in part from 15 years managerial experience in the hospitality and tourism industry. James has been a member and a volunteer moderator of multiple ICON community channels since 2017, and also assists the ICON foundation in producing resources for the community. He wishes to see the ICON community lead the way forward towards the United Nations Sustainable Development Goals, particularly through increased democracy (especially via DID and blockchain voting), climate action, and poverty reduction."
       img = "norsk.png"
       alt = "Person4"
       social = [
