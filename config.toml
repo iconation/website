@@ -90,6 +90,13 @@ theme = "hugo-elate-theme"
       subtitle = "Status of services maintained by ICONation"
 
     [[params.work.row]]
+      img = "prep-testnet.png"
+      link = "http://35.181.101.42:9000/api/v3"
+      alt = "ICONation P-Rep TestNet Node"
+      title = "ICONation P-Rep TestNet Node"
+      subtitle = "ICONation is participating to the P-Rep TestNet"
+
+    [[params.work.row]]
       img = "teaser.png"
       alt = "And more!"
       title = "And more to come!"
