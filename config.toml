@@ -69,18 +69,39 @@ theme = "hugo-elate-theme"
       subtitle = "ICON blockchain database & analyzer"
 
     [[params.work.row]]
+      img = "obsidian.png"
+      link = "https://github.com/iconation/Obsidian"
+      alt = "Obsidian"
+      title = "Obsidian"
+      subtitle = "ICON MultiSig Wallet Interface"
+
+    [[params.work.row]]
+      img = "hylian.png"
+      link = "https://github.com/iconation/hylian"
+      alt = "Hylian"
+      title = "Hylian"
+      subtitle = "ICON oracle price SCORE"
+
+    [[params.work.row]]
+      img = "daedric.png"
+      link = "https://github.com/iconation/daedric"
+      alt = "Daedric"
+      title = "Daedric"
+      subtitle = "ICON oracle price feed"
+
+    [[params.work.row]]
+      img = "battlebombroyale.png"
+      link = "https://battlebombroyale.com/"
+      alt = "Battle Bomb Royale"
+      title = "Battle Bomb Royale"
+      subtitle = "ICON Multiplayer Game"
+
+    [[params.work.row]]
       img = "citizen_node.png"
       link = "http://iconation.team:9100/api/v3/"
       alt = "ICONation Mainnet Citizen Node"
       title = "ICONation Mainnet Citizen Node"
       subtitle = "Fully synchronized Mainnet Node"
-
-    [[params.work.row]]
-      img = "testnet_citizen_node.png"
-      link = "http://iconation.team:9000/api/v3/"
-      alt = "ICONation Testnet Citizen Node"
-      title = "ICONation Testnet Citizen Node (Euljiro)"
-      subtitle = "Fully synchronized Testnet Node (Euljiro)"
 
     [[params.work.row]]
       img = "server-status.png"
