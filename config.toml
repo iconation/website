@@ -42,24 +42,10 @@ theme = "hugo-elate-theme"
 
     [[params.work.row]]
       img = "svalinn.png"
-      link = "https://github.com/iconation/Svalinn/releases/latest"
+      link = "https://github.com/iconation/Svalinn/"
       alt = "Svalinn ICX Wallet"
       title = "Svalinn"
       subtitle = "ICX Desktop Wallet, works online and offline."
-
-    [[params.work.row]]
-      img = "icon-sdk-php.png"
-      link = "https://github.com/iconation/icon-sdk-php"
-      alt = "ICON SDK PHP"
-      title = "ICON SDK PHP"
-      subtitle = "Development SDK in PHP"
-
-    [[params.work.row]]
-      img = "icon-sdk-cpp.png"
-      link = "https://github.com/iconation/icon-sdk-cpp"
-      alt = "ICON SDK CPP"
-      title = "ICON SDK CPP"
-      subtitle = "Development SDK in C++"
 
     [[params.work.row]]
       img = "aegis.png"
@@ -67,6 +53,20 @@ theme = "hugo-elate-theme"
       alt = "Aegis"
       title = "Aegis"
       subtitle = "ICON blockchain database & analyzer"
+
+    [[params.work.row]]
+      img = "craftain.png"
+      link = "https://craftain.com/courses/getting-started-with-icon"
+      alt = "Craftain"
+      title = "Craftain x ICON"
+      subtitle = "ICON Courses provided by ICONation"
+
+    [[params.work.row]]
+      img = "byiconistsforiconists.png"
+      link = "https://www.youtube.com/channel/UCKEiIRTKd7qbgc0BgrO7clQ/featured/"
+      alt = "By ICONists, For ICONists"
+      title = "By ICONists, For ICONists"
+      subtitle = "ICONation Youtube Series"
 
     [[params.work.row]]
       img = "obsidian.png"
@@ -88,6 +88,20 @@ theme = "hugo-elate-theme"
       alt = "Daedric"
       title = "Daedric"
       subtitle = "ICON oracle price feed"
+
+    [[params.work.row]]
+      img = "icon-sdk-php.png"
+      link = "https://github.com/iconation/icon-sdk-php"
+      alt = "ICON SDK PHP"
+      title = "ICON SDK PHP"
+      subtitle = "Development SDK in PHP"
+
+    [[params.work.row]]
+      img = "icon-sdk-cpp.png"
+      link = "https://github.com/iconation/icon-sdk-cpp"
+      alt = "ICON SDK CPP"
+      title = "ICON SDK CPP"
+      subtitle = "Development SDK in C++"
 
     [[params.work.row]]
       img = "battlebombroyale.png"
