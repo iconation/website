@@ -1095,9 +1095,9 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   position: relative;
   margin-bottom : 100px;
-  background-color: #31919c;
+  background-color: rgba(0, 0, 0, 0.1);
   border-radius: 10px;
-  border : 1px solid #29615c;
+  border : 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .fh5co-person h3 {
