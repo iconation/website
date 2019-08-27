@@ -27,11 +27,12 @@ theme = "hugo-elate-theme"
     title = "ICONation"
     subtitle = 'By ICONists, for ICONists.'
 
+  # Stake video
   # [params.intro.video]
-  #   enable = false
-  #   title = "Watch the video"
+  #   enable = true
+  #   title = "ICON Pre-Voting & Staking Tutorial : Learn how to stake"
   #   icon = "icon-play2"
-  #   url = "https://vimeo.com/channels/staffpicks/93951774"
+  #   url = "https://www.youtube.com/watch?v=Rlk5Yp8-bvg"
 
   # Work section
   [params.work]
