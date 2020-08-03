@@ -42,11 +42,25 @@ theme = "hugo-elate-theme"
     # footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "svalinn.png"
-      link = "https://github.com/iconation/Svalinn/"
-      alt = "Svalinn ICX Wallet"
-      title = "Svalinn"
-      subtitle = "ICX Desktop Wallet, works online and offline."
+      img = "iconswap.png"
+      link = "https://iconation.github.io/iconswap/"
+      alt = "ICONSwap"
+      title = "ICONSwap"
+      subtitle = "ICON DEX for ICX and IRC2 tokens."
+
+    [[params.work.row]]
+      img = "scorelib.png"
+      link = "https://github.com/iconation/scorelib/"
+      alt = "SCORELib"
+      title = "SCORELib"
+      subtitle = "Advanced data structures library."
+
+    [[params.work.row]]
+      img = "govmeeting.png"
+      link = "https://www.youtube.com/channel/UC5SrWL7CKY09cVtuDxHtizw/videos/"
+      alt = "Governance Meeting"
+      title = "Governance Meeting"
+      subtitle = "Participation in P-Rep Governance Meetings."
 
     [[params.work.row]]
       img = "aegis.png"
@@ -56,13 +70,6 @@ theme = "hugo-elate-theme"
       subtitle = "ICON blockchain database & analyzer"
 
     [[params.work.row]]
-      img = "craftain.png"
-      link = "https://craftain.com/courses/getting-started-with-icon"
-      alt = "Craftain"
-      title = "Craftain x ICON"
-      subtitle = "ICON Courses provided by ICONation"
-
-    [[params.work.row]]
       img = "byiconistsforiconists.png"
       link = "https://www.youtube.com/channel/UCKEiIRTKd7qbgc0BgrO7clQ/featured/"
       alt = "By ICONists, For ICONists"
@@ -70,11 +77,25 @@ theme = "hugo-elate-theme"
       subtitle = "ICONation Youtube Series"
 
     [[params.work.row]]
-      img = "obsidian.png"
-      link = "https://github.com/iconation/Obsidian"
-      alt = "Obsidian"
-      title = "Obsidian"
-      subtitle = "ICON MultiSig Wallet Interface"
+      img = "cm.png"
+      link = "https://reddit.com/r/helloicon/"
+      alt = "Community Support"
+      title = "Community Support"
+      subtitle = "Community support and moderators of multiple ICON communities"
+
+    [[params.work.row]]
+      img = "iiss3.png"
+      link = "https://forum.icon.community/t/iiss-3-0-proposal/"
+      alt = "IISS 3.0 participation"
+      title = "IISS 3.0 participation"
+      subtitle = "P-Rep discussion around IISS 3.0."
+
+    [[params.work.row]]
+      img = "craftain.png"
+      link = "https://craftain.com/courses/getting-started-with-icon"
+      alt = "Craftain"
+      title = "Craftain x ICON"
+      subtitle = "ICON Courses provided by ICONation"
 
     [[params.work.row]]
       img = "hylian.png"
@@ -82,6 +103,27 @@ theme = "hugo-elate-theme"
       alt = "Hylian"
       title = "Hylian"
       subtitle = "ICON oracle price SCORE"
+
+    [[params.work.row]]
+      img = "svalinn.png"
+      link = "https://github.com/iconation/Svalinn/"
+      alt = "Svalinn ICX Wallet"
+      title = "Svalinn"
+      subtitle = "ICX Desktop Wallet, works online and offline."
+
+    [[params.work.row]]
+      img = "ecclesia.png"
+      link = "https://github.com/iconation/Ecclesia"
+      alt = "Ecclesia"
+      title = "Ecclesia"
+      subtitle = "Public Voting SCORE"
+
+    [[params.work.row]]
+      img = "obsidian.png"
+      link = "https://iconation.team/multisig-wallet"
+      alt = "Obsidian"
+      title = "Obsidian"
+      subtitle = "ICON MultiSig Wallet Interface"
 
     [[params.work.row]]
       img = "daedric.png"
@@ -106,31 +148,17 @@ theme = "hugo-elate-theme"
 
     [[params.work.row]]
       img = "battlebombroyale.png"
-      link = "https://battlebombroyale.com/"
+      link = "https://battlebombroyale.github.io/"
       alt = "Battle Bomb Royale"
       title = "Battle Bomb Royale"
       subtitle = "ICON Multiplayer Game"
 
     [[params.work.row]]
-      img = "citizen_node.png"
-      link = "http://iconation.team:9100/api/v3/"
-      alt = "ICONation Mainnet Citizen Node"
-      title = "ICONation Mainnet Citizen Node"
-      subtitle = "Fully synchronized Mainnet Node"
-
-    [[params.work.row]]
-      img = "server-status.png"
-      link = "http://iconation.team:8000/"
-      alt = "ICONation Server Status"
-      title = "ICONation Server Status"
-      subtitle = "Status of services maintained by ICONation"
-
-    [[params.work.row]]
       img = "prep-testnet.png"
-      link = "http://35.181.101.42:9000/api/v3"
+      link = "https://i.imgur.com/3fTQ1P5.png"
       alt = "ICONation P-Rep TestNet Node"
       title = "ICONation P-Rep TestNet Node"
-      subtitle = "ICONation is participating to the P-Rep TestNet"
+      subtitle = "ICONation has participated to the P-Rep TestNet"
 
     [[params.work.row]]
       img = "teaser.png"
