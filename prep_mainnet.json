@@ -1,0 +1,28 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "https://iconation.team/images/logo256.png",
+      "logo_1024": "https://iconation.team/images/logo1024.png",
+      "logo_svg": ""
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "https://twitter.com/iconationteam",
+      "youtube": "https://www.youtube.com/c/ICONationTeam/",
+      "facebook": "",
+      "github": "https://github.com/iconation",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "https://t.me/iconationteam",
+      "wechat": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "FR",
+      "city": "Paris"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "52.47.90.20:9000"
+  }
+}
