@@ -42,6 +42,20 @@ theme = "hugo-elate-theme"
     # footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
+      img = "iconsafe.png"
+      link = "https://iconsafe.net"
+      alt = "ICONSafe"
+      title = "ICONSafe"
+      subtitle = "ICON Multisig Wallet."
+
+    [[params.work.row]]
+      img = "equality.png"
+      link = "https://equalityexchange.medium.com/introducing-equality-exchange-f51c6d80546d"
+      alt = "Equality (Early Contributors)"
+      title = "Equality (Early Contributors)"
+      subtitle = "StableSwap AMM."
+
+    [[params.work.row]]
       img = "iconswap.png"
       link = "https://iconation.github.io/iconswap/"
       alt = "ICONSwap"
@@ -81,7 +95,7 @@ theme = "hugo-elate-theme"
       link = "https://reddit.com/r/helloicon/"
       alt = "Community Support"
       title = "Community Support"
-      subtitle = "Community support and moderators of multiple ICON communities"
+      subtitle = "Community support and moderators"
 
     [[params.work.row]]
       img = "iiss3.png"
