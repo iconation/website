@@ -50,7 +50,7 @@ theme = "hugo-elate-theme"
 
     [[params.work.row]]
       img = "equality.png"
-      link = "https://equalityexchange.medium.com/introducing-equality-exchange-f51c6d80546d"
+      link = "https://equality.exchange/"
       alt = "Equality (Early Contributors)"
       title = "Equality (Early Contributors)"
       subtitle = "StableSwap AMM."
